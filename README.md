@@ -424,7 +424,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check 3-5: \_Project - Lesson Learned
 
-### Part 4: Introdução - JavaScript e Lógica
+### Part 4: Introdução - JavaScript and Logica
 
 :ballot_box_with_check 4-1: \_JavaScript - First steps
 
@@ -436,7 +436,7 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check 4-5: \_Project - Playground Functions
 
-### Part 5: Javascript: DOM, Events e Web Storage
+### Part 5: Javascript: DOM, Events and Web Storage
 
 :ballot_box_with_check 5-1: \_JavaScript - DOM and selectors
 
