@@ -390,7 +390,7 @@ As principais habilidades técnicas estudadas são JavaScript, HTML, CSS, React,
 
 # English version - Trybe
 
-This repository contains all activities that are being developed by _[Adson Gomes Oliveira](https://www.linkedin.com/in/adson-gomes-oliveira/)_ while studying at [Trybe](https://www.betrybe.com/) 🚀 (2020 - 2021).
+This repository contains all activities that are being developed by _[Lucas Petzinger](https://www.linkedin.com/in/lucas-petzinger/)_ while studying at [Trybe](https://www.betrybe.com/) 🚀 (2020 - 2021).
 
 The web development training program from Trybe has a workload of 1500 hours that covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
 
