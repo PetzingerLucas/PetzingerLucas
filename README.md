@@ -426,97 +426,97 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 ### Part 4: Introdução - JavaScript and Logica
 
-:ballot_box_with_check 4-1: \_JavaScript - First steps
+:ballot_box_with_check: 4-1: \_JavaScript - Primeiros passos
 
-:ballot_box_with_check 4-2: \_JavaScript - Array e loop For
+:ballot_box_with_check: 4-2: \_JavaScript - Array e loop For
 
-:ballot_box_with_check 4-3: \_JavaScript - Programming Logic and Algorithms
+:ballot_box_with_check: 4-3: \_JavaScript - Lógica de Programação e Algoritmos
 
-:ballot_box_with_check 4-4: \_JavaScript - Objects and functions
+:ballot_box_with_check: 4-4: \_JavaScript - Objetos e funções
 
-:ballot_box_with_check 4-5: \_Project - Playground Functions
+:ballot_box_with_check: 4-5: \_Projeto - Playground Functions
 
-### Part 5: Javascript: DOM, Events and Web Storage
+### Bloco 5: Javascript: DOM, Eventos e Web Storage
 
-:ballot_box_with_check 5-1: \_JavaScript - DOM and selectors
+:ballot_box_with_check: 5-1: \_JavaScript - DOM e seletores
 
-:ballot_box_with_check 5-2: \_JavaScript - Working with elements
+:ballot_box_with_check: 5-2: \_JavaScript - Trabalhando com elementos
 
-:ballot_box_with_check 5-3: \_JavaScript - Events
+:ballot_box_with_check: 5-3: \_JavaScript - Eventos
 
-:ballot_box_with_check 5-4: \_JavaScript - Web Storage
+:ballot_box_with_check: 5-4: \_JavaScript - Web Storage
 
-:ballot_box_with_check 5.5: \_Project: Art with Pixels
+:ballot_box_with_check: 5.5: \_Projeto: Arte com Pixels
 
-:ballot_box_with_check 5-6: \_Project - To Do List
+:ballot_box_with_check: 5-6: \_Projeto - Lista de tarefas
 
-:ballot_box_with_check 5-7: \_Bonus Project - Meme Generator
+:ballot_box_with_check: 5-7: \_Projeto Bônus - Meme Generator
 
-:ballot_box_with_check 5-7: \_Bonus Project - Guess the Colour
+:ballot_box_with_check: 5-7: \_Projeto Bônus - Adivinhe a cor
 
-:ballot_box_with_check 5-7: \_Bonus Project - Mysterious Card
+:ballot_box_with_check: 5-7: \_Projeto Bônus - Carta Misteriosa
 
-### Part 6: HTML & CSS avançado
+### Bloco 6: HTML & CSS avançado
 
-:ballot_box_with_check 6-1: \_HTML & CSS - Forms
+:ballot_box_with_check: 6-1: \_HTML & CSS - Forms
 
-:ballot_box_with_check 6-2: \_JavaScript libraries and CSS Frameworks
+:ballot_box_with_check: 6-2: \_Bibliotecas JavaScript e Frameworks CSS
 
-:ballot_box_with_check 6-3: \_CSS Flexbox - Part 1
+:ballot_box_with_check: 6-3: \_CSS Flexbox - Part 1
 
-:ballot_box_with_check 6-4: \_CSS Flexbox - Part 2
+:ballot_box_with_check: 6-4: \_CSS Flexbox - Part 2
 
-:ballot_box_with_check 6-5: \_CSS Responsive - Mobile First
+:ballot_box_with_check: 6-5: \_CSS Responsivo - Mobile First
 
-:b:ballot_box_with_check 6-6: \_Project - Trybewarts
+:ballot_box_with_check: 6-6: \_Projeto - Trybewarts
 
-### Part 7: JavaScript ES6 & Unit testing
+### Bloco 7: JavaScript ES6 & Testes Unitários
 
-:ballot_box_with_check 7-1: \_JavaScript ES6 - let, const, arrow functions and template literals
+:ballot_box_with_check: 7-1: \_JavaScript ES6 - let, const, arrow functions e template literals
 
-:ballot_box_with_check 7-2: \_JavaScript ES6 - Objects
+:ballot_box_with_check: 7-2: \_JavaScript ES6 - Objects
 
-:ballot_box_with_check 7-3: \_Unit testing - JavaScript
+:ballot_box_with_check: 7-3: \_Testes unitários em JavaScript
 
-:ballot_box_with_check 7-4: \_Project - JavaScript Unit testing
+:ballot_box_with_check: 7-4: \_Projeto - JavaScript Testes Unitários
 
-### Part 8: Higher Order Functions do JavaScript ES6
+### Bloco 8: Higher Order Functions do JavaScript ES6
 
-:ballot_box_with_check 8-1: \_JavaScript ES6 - Introduction to Higher Order Functions
+:ballot_box_with_check:8-1: \_JavaScript ES6 - Introdução Higher Order Functions
 
-:ballot_box_with_check 8-2: \_JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+:ballot_box_with_check: 8-2: \_JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 
-:ballot_box_with_check 8-3: \_JavaScript ES6 - Higher Order Functions - map and filter
+:ballot_box_with_check: 8-3: \_JavaScript ES6 - Higher Order Functions - map e filter
 
-:ballot_box_with_check 8-4: \_JavaScript ES6 - Higher Order Functions - reduce
+:ballot_box_with_check: 8-4: \_JavaScript ES6 - Higher Order Functions - reduce
 
-:ballot_box_with_check 8-5: \_JavaScript ES6 - spread operator, rest parameter, destructuring and more
+:ballot_box_with_check: 8-5: \_JavaScript ES6 - spread operator, rest parameter, destructuring e mais
 
-:ballot_box_with_check 8-5: \_Project - Zoo functions
+:ballot_box_with_check: 8-5: \_Projeto - Zoo functions
 
-### Part 9: Asynchronous Javascript and Promises
+### Bloco 9: Javascript Assíncrono e Promises
 
-:ballot_box_with_check 9-1: \_JavaScript Async and Callbacks
+:ballot_box_with_check: 9-1: \_JavaScript Assíncrono e Callbacks
 
-:ballot_box_with_check 9-2: \_JavaScript Promises
+:ballot_box_with_check: 9-2: \_JavaScript Promises
 
-:ballot_box_with_check 9-3: \_Project - Shopping Cart
+:ballot_box_with_check: 9-3: \_Jest - Testes Assíncronos
 
-### Part 10: Automate Testing using Jest
+:ballot_box_with_check: 9-4: \_Projeto - Carrinho de Compras
 
-:ballot_box_with_check 10-1: \_First steps with Jest
+## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-:ballot_box_with_check 10-2: \_Testing Asynchronous using Jest
+### Bloco 10: Introdução - React
 
-:ballot_box_with_check 10-3: \_Jest - Simulating behaviors
+:ballot_box_with_check: 10-1: 'Hello, world!' no React!\_
 
-:ballot_box_with_check 10-4: \_Project - Asynchronous Jest and Mocking
+:ballot_box_with_check: 10-2: \_Componentes React
 
-## Front-end development :hourglass_flowing_sand:
+:ballot_box_with_check: 10-3: \_Projeto - Solar System
 
-### Part 11: Introduction - React
+### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-:ballot_box_with_check  11-1: 'Hello, world!' with React!\_
+:ballot_box_with_check: 11-1: \_Componentes com estado e eventos
 
 :black_large_square: 11-2: \_React components
 
