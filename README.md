@@ -418,105 +418,105 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 3-2: \_HTML & CSS - First steps
 
-:black_large_square: 3-3: \_HTML & CSS - Selectors and positioning
+:ballot_box_with_check 3-3: \_HTML & CSS - Selectors and positioning
 
-:black_large_square: 3-4: \_HTML semantic elements
+:ballot_box_with_check: 3-4: \_HTML semantic elements
 
-:black_large_square: 3-5: \_Project - Lesson Learned
+:ballot_box_with_check 3-5: \_Project - Lesson Learned
 
 ### Part 4: Introdução - JavaScript e Lógica
 
-:black_large_square: 4-1: \_JavaScript - First steps
+:ballot_box_with_check 4-1: \_JavaScript - First steps
 
-:black_large_square: 4-2: \_JavaScript - Array e loop For
+:ballot_box_with_check 4-2: \_JavaScript - Array e loop For
 
-:black_large_square: 4-3: \_JavaScript - Programming Logic and Algorithms
+:ballot_box_with_check 4-3: \_JavaScript - Programming Logic and Algorithms
 
-:black_large_square: 4-4: \_JavaScript - Objects and functions
+:ballot_box_with_check 4-4: \_JavaScript - Objects and functions
 
-:black_large_square: 4-5: \_Project - Playground Functions
+:ballot_box_with_check 4-5: \_Project - Playground Functions
 
 ### Part 5: Javascript: DOM, Events e Web Storage
 
-:black_large_square: 5-1: \_JavaScript - DOM and selectors
+:ballot_box_with_check 5-1: \_JavaScript - DOM and selectors
 
-:black_large_square: 5-2: \_JavaScript - Working with elements
+:ballot_box_with_check 5-2: \_JavaScript - Working with elements
 
-:black_large_square: 5-3: \_JavaScript - Events
+:ballot_box_with_check 5-3: \_JavaScript - Events
 
-:black_large_square: 5-4: \_JavaScript - Web Storage
+:ballot_box_with_check 5-4: \_JavaScript - Web Storage
 
-:black_large_square: 5.5: \_Project: Art with Pixels
+:ballot_box_with_check 5.5: \_Project: Art with Pixels
 
-:black_large_square: 5-6: \_Project - To Do List
+:ballot_box_with_check 5-6: \_Project - To Do List
 
-:black_large_square: 5-7: \_Bonus Project - Meme Generator
+:ballot_box_with_check 5-7: \_Bonus Project - Meme Generator
 
-:black_large_square: 5-7: \_Bonus Project - Guess the Colour
+:ballot_box_with_check 5-7: \_Bonus Project - Guess the Colour
 
-:black_large_square: 5-7: \_Bonus Project - Mysterious Card
+:ballot_box_with_check 5-7: \_Bonus Project - Mysterious Card
 
 ### Part 6: HTML & CSS avançado
 
-:black_large_square: 6-1: \_HTML & CSS - Forms
+:ballot_box_with_check 6-1: \_HTML & CSS - Forms
 
-:black_large_square: 6-2: \_JavaScript libraries and CSS Frameworks
+:ballot_box_with_check 6-2: \_JavaScript libraries and CSS Frameworks
 
-:black_large_square: 6-3: \_CSS Flexbox - Part 1
+:ballot_box_with_check 6-3: \_CSS Flexbox - Part 1
 
-:black_large_square: 6-4: \_CSS Flexbox - Part 2
+:ballot_box_with_check 6-4: \_CSS Flexbox - Part 2
 
-:black_large_square: 6-5: \_CSS Responsive - Mobile First
+:ballot_box_with_check 6-5: \_CSS Responsive - Mobile First
 
-:black_large_square: 6-6: \_Project - Trybewarts
+:b:ballot_box_with_check 6-6: \_Project - Trybewarts
 
 ### Part 7: JavaScript ES6 & Unit testing
 
-:black_large_square: 7-1: \_JavaScript ES6 - let, const, arrow functions and template literals
+:ballot_box_with_check 7-1: \_JavaScript ES6 - let, const, arrow functions and template literals
 
-:black_large_square: 7-2: \_JavaScript ES6 - Objects
+:ballot_box_with_check 7-2: \_JavaScript ES6 - Objects
 
-:black_large_square: 7-3: \_Unit testing - JavaScript
+:ballot_box_with_check 7-3: \_Unit testing - JavaScript
 
-:black_large_square: 7-4: \_Project - JavaScript Unit testing
+:ballot_box_with_check 7-4: \_Project - JavaScript Unit testing
 
 ### Part 8: Higher Order Functions do JavaScript ES6
 
-:black_large_square:8-1: \_JavaScript ES6 - Introduction to Higher Order Functions
+:ballot_box_with_check 8-1: \_JavaScript ES6 - Introduction to Higher Order Functions
 
-:black_large_square: 8-2: \_JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+:ballot_box_with_check 8-2: \_JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 
-:black_large_square: 8-3: \_JavaScript ES6 - Higher Order Functions - map and filter
+:ballot_box_with_check 8-3: \_JavaScript ES6 - Higher Order Functions - map and filter
 
-:black_large_square: 8-4: \_JavaScript ES6 - Higher Order Functions - reduce
+:ballot_box_with_check 8-4: \_JavaScript ES6 - Higher Order Functions - reduce
 
-:black_large_square: 8-5: \_JavaScript ES6 - spread operator, rest parameter, destructuring and more
+:ballot_box_with_check 8-5: \_JavaScript ES6 - spread operator, rest parameter, destructuring and more
 
-:black_large_square: 8-5: \_Project - Zoo functions
+:ballot_box_with_check 8-5: \_Project - Zoo functions
 
 ### Part 9: Asynchronous Javascript and Promises
 
-:black_large_square: 9-1: \_JavaScript Async and Callbacks
+:ballot_box_with_check 9-1: \_JavaScript Async and Callbacks
 
-:black_large_square: 9-2: \_JavaScript Promises
+:ballot_box_with_check 9-2: \_JavaScript Promises
 
-:black_large_square: 9-3: \_Project - Shopping Cart
+:ballot_box_with_check 9-3: \_Project - Shopping Cart
 
 ### Part 10: Automate Testing using Jest
 
-:black_large_square: 10-1: \_First steps with Jest
+:ballot_box_with_check 10-1: \_First steps with Jest
 
-:black_large_square: 10-2: \_Testing Asynchronous using Jest
+:ballot_box_with_check 10-2: \_Testing Asynchronous using Jest
 
-:black_large_square: 10-3: \_Jest - Simulating behaviors
+:ballot_box_with_check 10-3: \_Jest - Simulating behaviors
 
-:black_large_square: 10-4: \_Project - Asynchronous Jest and Mocking
+:ballot_box_with_check 10-4: \_Project - Asynchronous Jest and Mocking
 
 ## Front-end development :hourglass_flowing_sand:
 
 ### Part 11: Introduction - React
 
-:black_large_square: 11-1: 'Hello, world!' with React!\_
+:ballot_box_with_check  11-1: 'Hello, world!' with React!\_
 
 :black_large_square: 11-2: \_React components
 
