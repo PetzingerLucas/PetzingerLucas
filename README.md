@@ -424,37 +424,37 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check 3-5: \_Project - Lesson Learned
 
-### Part 4: Introdução - JavaScript and Logica
+### Part 4: Introduction - JavaScript and Logic
 
-:ballot_box_with_check: 4-1: \_JavaScript - Primeiros passos
+:ballot_box_with_check: 4-1: \JavaScript - Getting Started
 
-:ballot_box_with_check: 4-2: \_JavaScript - Array e loop For
+:ballot_box_with_check: 4-2: \_JavaScript - Array and loop For
 
-:ballot_box_with_check: 4-3: \_JavaScript - Lógica de Programação e Algoritmos
+:ballot_box_with_check: 4-3: \_JavaScript - Programming Logic and Algorithms
 
-:ballot_box_with_check: 4-4: \_JavaScript - Objetos e funções
+:ballot_box_with_check: 4-4: \_JavaScript -  Objects and functions
 
 :ballot_box_with_check: 4-5: \_Projeto - Playground Functions
 
-### Bloco 5: Javascript: DOM, Eventos e Web Storage
+### Bloco 5: Javascript: DOM, Events, and Web Storage
 
-:ballot_box_with_check: 5-1: \_JavaScript - DOM e seletores
+:ballot_box_with_check: 5-1: \_JavaScript - DOM and selectors
 
-:ballot_box_with_check: 5-2: \_JavaScript - Trabalhando com elementos
+:ballot_box_with_check: 5-2: \_JavaScript - Working with elements
 
-:ballot_box_with_check: 5-3: \_JavaScript - Eventos
+:ballot_box_with_check: 5-3: \_JavaScript -  Events
 
 :ballot_box_with_check: 5-4: \_JavaScript - Web Storage
 
-:ballot_box_with_check: 5.5: \_Projeto: Arte com Pixels
+:ballot_box_with_check: 5.5: \_ Project: Pixel Art
 
-:ballot_box_with_check: 5-6: \_Projeto - Lista de tarefas
+:ballot_box_with_check: 5-6: \_Project - To-Do List
 
-:ballot_box_with_check: 5-7: \_Projeto Bônus - Meme Generator
+:ballot_box_with_check: 5-7: \_Bonus_Project - Meme Generator
 
-:ballot_box_with_check: 5-7: \_Projeto Bônus - Adivinhe a cor
+:ballot_box_with_check: 5-7: \_Bonus Project - Guess the Color
 
-:ballot_box_with_check: 5-7: \_Projeto Bônus - Carta Misteriosa
+:ballot_box_with_check: 5-7: \_Bonus Project - Mysterious Letter
 
 ### Bloco 6: HTML & CSS avançado
 
@@ -500,23 +500,23 @@ The main technical stacks studied are JavaScript, HTML, CSS, React, Node, Expres
 
 :ballot_box_with_check: 9-2: \_JavaScript Promises
 
-:ballot_box_with_check: 9-3: \_Jest - Testes Assíncronos
+:ballot_box_with_check: 9-3: \_Jest - Jest - Asynchronous Tests
 
-:ballot_box_with_check: 9-4: \_Projeto - Carrinho de Compras
+:ballot_box_with_check: 9-4: \_ Project - Shopping Cart
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ### Bloco 10: Introdução - React
 
-:ballot_box_with_check: 10-1: 'Hello, world!' no React!\_
+:ballot_box_with_check: 10-1:  'Hello, world'in React
 
-:ballot_box_with_check: 10-2: \_Componentes React
+:ballot_box_with_check: 10-2: \_React Components
 
-:ballot_box_with_check: 10-3: \_Projeto - Solar System
+:ballot_box_with_check: 10-3: \_Project - Solar System
 
 ### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-:ballot_box_with_check: 11-1: \_Componentes com estado e eventos
+:ballot_box_with_check: 11-1: \_Components with state and events
 
 :black_large_square: 11-2: \_React components
 
