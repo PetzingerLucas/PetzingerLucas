@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Lucas Petzinger 👋 </h1>
-<h3 align="center">:🚀 | Front-End Developer |🚀</h3>
+<h3 align="center">🚀 | Front-End Developer |🚀</h3>
 <div>
 <img width = "40%" align="right" alt="PIC" height="25%" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 <div align="left">
