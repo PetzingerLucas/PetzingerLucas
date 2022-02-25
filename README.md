@@ -20,6 +20,7 @@
    <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="50">
    <img src="https://www.svgrepo.com/show/349330/css3.svg" width="50">
    <img src="https://www.svgrepo.com/show/373623/git.svg" width="50">
+    <img src="https://www.svgrepo.com/show/373700/jest.svg" width="50"
   <p>
 </div>
 <div>
