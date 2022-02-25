@@ -3,7 +3,7 @@
 <div>
 <img width = "40%" align="right" alt="PIC" height="25%" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 <div align="left">
-  <h3> 👨 &nbsp; About Me </h3>
+  <h3>👨🏻‍💻 &nbsp; About Me </h3>
   
   - 🎓 &nbsp;  Studying Software Development at Trybe.
   - 💼 &nbsp; Learning about backend architectures.
